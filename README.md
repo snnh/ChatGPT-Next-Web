@@ -300,7 +300,7 @@ docker run -d -p 3000:3000 \
    yidadaa/chatgpt-next-web
 ```
 
-You can start service behind a proxy:
+You can  start service behind a proxy:
 
 ```shell
 docker run -d -p 3000:3000 \
